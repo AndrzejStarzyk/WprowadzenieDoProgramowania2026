@@ -21,4 +21,5 @@ Informacje organizacyjne
     13. Implementacja algorytmów i rozwiązywanie zadań
     14. Sprawdzian, rozwiązywanie zadań lub prezentacja projektów
 6. Nieobecności - dopuszczalna 1 nieusprawiedliwiona nieobecność, obecność na sprawdzianach jest konieczna.
-7. Tematy projektów
+7. Nie ma możliwości poprawy żadnego z elementów oceny. Nieuzyskanie wystarczającej liczby punktów na zalicznie przedmiotu będzie wiązało się z dodatkowym sprawdzianem z całości materiału, w szczególnych przypadkach poprawą projektu lub innym indywidualnie ustalonym dodatkowym zadaniem.
+8. Tematy projektów
