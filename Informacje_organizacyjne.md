@@ -7,8 +7,8 @@ Informacje organizacyjne
 4. Na ostatnich zajęciach zostanie przeprowadzony egzamin. Na 7. i 14. zajęcia zaplanowane są sprawdziany trwające około 45 min.
 5. Planowane są następujące tematy zajęć:
     1. Wprowadzenie do środowiska programistycznego, korzystanie z narzędzia GitHub, program typu "Hello World" w python, postawowe typy danych i operatory
-    2. Zmienna, funkcje, instrukje warunkowe, 
-    3. Złożone typy danych, iteracja, pętle, comprehension
+    2. Zmienna, instrukje warunkowe, Funkcje, lista, pętle,
+    3. Interacja, rekurencja, złożone typy danych, comprehension, zadania
     4. Implementacja prostych algorytmów matematycznych, kombinatorycznych
     5. Moduły i funkcje wbudowane, identyfikacja typu, konwersja,
     6. Metody rozwiązywania zadań programistycznych i zastosowania poznanych algorytmów
